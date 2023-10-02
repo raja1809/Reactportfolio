@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reactportfolio/static/css/main.dee27eba.css",
+    "main.js": "/Reactportfolio/static/js/main.5fe8cf6d.js",
+    "static/js/787.cf7afa1b.chunk.js": "/Reactportfolio/static/js/787.cf7afa1b.chunk.js",
+    "static/media/Runway 2023-09-29T11_04_22.769Z Infinite Image trees.png": "/Reactportfolio/static/media/Runway 2023-09-29T11_04_22.769Z Infinite Image trees.37d39ed68110d7d6c250.png",
+    "index.html": "/Reactportfolio/index.html",
+    "main.dee27eba.css.map": "/Reactportfolio/static/css/main.dee27eba.css.map",
+    "main.5fe8cf6d.js.map": "/Reactportfolio/static/js/main.5fe8cf6d.js.map",
+    "787.cf7afa1b.chunk.js.map": "/Reactportfolio/static/js/787.cf7afa1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee27eba.css",
+    "static/js/main.5fe8cf6d.js"
+  ]
+}
