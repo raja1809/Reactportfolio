@@ -1,0 +1,35 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 20px 0; /* Reduce top and bottom margin for smaller screens */
+    align-items: center;
+  }
+  
+  .contact_ {
+    border: 1px solid white;
+    width: 90%; /* Adjust the width for smaller screens */
+    max-width: 600px; /* Add a max-width to prevent excessive width on larger screens */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px; /* Reduce padding for smaller screens */
+    margin-top: 20px;
+  }
+  
+  .contact_ > p {
+    font-size: 16px; /* Reduce font size for smaller screens */
+    text-align: left;
+    padding-bottom: 15px; /* Reduce padding for smaller screens */
+  }
+  
+  .contact_ > p > span {
+    color: orangered;
+  }
+  
+  .icons > a {
+    margin-right: 10px;
+  }
+  
